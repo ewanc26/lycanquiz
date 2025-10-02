@@ -1,4 +1,4 @@
-﻿Public Class Form1
+Public Class Form1
     ' Correct answers for Q1 to Q5 respectively
     Private correctAnswers As Boolean() = {True, False, True, False, True}
 
@@ -21,8 +21,8 @@
                         score += 1
                     End If
                 Case 2
-                    ' Q2: Using "<>" and "Or"
-                    If (trueChecked <> correct) Or (falseChecked = Not correct) Then
+                    ' Q2: Using "<>"
+                    If (trueChecked = correct) Then
                         score += 1
                     End If
                 Case 3
