@@ -59,3 +59,4 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## Note
 
 This is a student practice project created for educational purposes. The quiz content and logic are intentionally simple to focus on learning VB.NET fundamentals.
+Mirrored on Tangled: https://tangled.org/did:plc:ofrbh253gwicbkc5nktqepol/college-practice-lycanquiz
